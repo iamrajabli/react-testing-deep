@@ -21,7 +21,8 @@
 - [#3 Поисковые типы (Search Types)](https://github.com/iamrajabli/react-testing-deep/tree/9ef22689825a41fe8a31ad919d1469cb6cfd947e)
 - [#4 Поисковые варианты и утверждения](https://github.com/iamrajabli/react-testing-deep/tree/cbcfb591eac0b97f58d1ecf0c623ae2ea6eb5607)
 - [#5 fireEvent Событие (Fire Events)](https://github.com/iamrajabli/react-testing-deep/tree/8bd5ea97e9da28e5b23ca5ca69fc6568178b1f0a)
-- [#6 userEvent Событие (User Events)]()
+- [#6 userEvent Событие (User Events)](https://github.com/iamrajabli/react-testing-deep/tree/ec40734e044f1a8ced1accb6a83fb4a992ee32b5)
+- [#7 Асинхронное тестирование (Asynchronous Testing)]()
 
 
 ---
