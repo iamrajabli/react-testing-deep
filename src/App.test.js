@@ -10,5 +10,15 @@ describe("App", () => {
     expect(screen.getByLabelText(/search/i)).toBeInTheDocument();
     expect(screen.getByPlaceholderText('search...')).toBeInTheDocument();
     expect(screen.getByDisplayValue('')).toBeInTheDocument();
+    expect(screen.queryByText(/vuejs/i)).toBeNull();
+  });
+
+  it("validate async", async () => {
+    render(<App />)
+    expect(screen.queryByText(/Logged in as/i)).toBeNull()
+    expect(await screen.findByText(/Leanne/i)).toBeInTheDocument();
+
   })
+
+
 })
