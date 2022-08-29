@@ -16,6 +16,7 @@
 ---
 
 ### Список уроков:
-- [#1 Установка окружения (Setup Environment)]()
+- [#1 Установка окружения (Setup Environment)](https://github.com/iamrajabli/react-testing-deep/tree/91e188b5864545654da8d355a66a874a9a566eca)
+- [#2 Рендеринг компонента (Rendering a Component)]()
 
 ---
