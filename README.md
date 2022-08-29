@@ -19,5 +19,5 @@
 - [#1 Установка окружения (Setup Environment)](https://github.com/iamrajabli/react-testing-deep/tree/91e188b5864545654da8d355a66a874a9a566eca)
 - [#2 Рендеринг компонента (Rendering a Component)](https://github.com/iamrajabli/react-testing-deep/tree/89f30986258ca013b666942986a9759cf08484a6)
 - [#3 Поисковые типы (Search Types)](https://github.com/iamrajabli/react-testing-deep/tree/9ef22689825a41fe8a31ad919d1469cb6cfd947e)
-- [#4 Поисковые варианты и утверждения]()
+- [#4 Поисковые варианты и утверждения](https://github.com/iamrajabli/react-testing-deep/tree/cbcfb591eac0b97f58d1ecf0c623ae2ea6eb5607)
 ---
