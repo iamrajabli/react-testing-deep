@@ -4,7 +4,12 @@ import "./App.css";
 const Search = ({ value, onChange, children }) => (
   <div>
     <label htmlFor="search">{children}</label>
-    <input id="search" type="text" value={value} onChange={onChange} />
+    <input
+      placeholder="search..."
+      id="search"
+      type="text"
+      value={value}
+      onChange={onChange} />
   </div>
 );
 
@@ -17,6 +22,7 @@ const App = () => {
 
   return (
     <div>
+      <img src="" alt="react" />
       <Search value={search} onChange={handleChange}>
         Search:
       </Search>
